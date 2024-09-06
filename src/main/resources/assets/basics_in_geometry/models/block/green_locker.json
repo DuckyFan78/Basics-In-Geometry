@@ -1,0 +1,9 @@
+{
+  "parent": "basics_in_geometry:custom/locker3",
+  "textures": {
+    "all": "basics_in_geometry:block/locker3full",
+    "particle": "basics_in_geometry:block/locker3full",
+    "0": "basics_in_geometry:block/locker3full"
+  },
+  "render_type": "solid"
+}

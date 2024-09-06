@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "basics_in_geometry:block/carpet",
+    "up": "basics_in_geometry:block/carpet",
+    "north": "basics_in_geometry:block/carpet",
+    "east": "basics_in_geometry:block/carpet",
+    "south": "basics_in_geometry:block/carpet",
+    "west": "basics_in_geometry:block/carpet",
+    "particle": "basics_in_geometry:block/carpet"
+  },
+  "render_type": "solid"
+}

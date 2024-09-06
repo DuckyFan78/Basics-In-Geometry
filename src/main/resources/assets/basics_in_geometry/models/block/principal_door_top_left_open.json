@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_left_open",
+  "textures": {
+    "particle": "basics_in_geometry:block/principalbottom",
+    "bottom": "basics_in_geometry:block/principalbottom",
+    "top": "basics_in_geometry:block/principaltop"
+  },
+  "render_type": "cutout"
+}

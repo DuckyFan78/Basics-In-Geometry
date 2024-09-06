@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_right",
+  "textures": {
+    "particle": "basics_in_geometry:block/suppliesbottom",
+    "bottom": "basics_in_geometry:block/suppliesbottom",
+    "top": "basics_in_geometry:block/suppliestop"
+  },
+  "render_type": "cutout"
+}

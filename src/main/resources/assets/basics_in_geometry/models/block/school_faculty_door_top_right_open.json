@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_right_open",
+  "textures": {
+    "particle": "basics_in_geometry:block/staffbottom",
+    "bottom": "basics_in_geometry:block/staffbottom",
+    "top": "basics_in_geometry:block/stafftop"
+  },
+  "render_type": "cutout"
+}

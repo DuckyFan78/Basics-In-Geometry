@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_right_open",
+  "textures": {
+    "particle": "basics_in_geometry:block/swingingbottom",
+    "bottom": "basics_in_geometry:block/swingingbottom",
+    "top": "basics_in_geometry:block/swingingtop"
+  },
+  "render_type": "cutout"
+}

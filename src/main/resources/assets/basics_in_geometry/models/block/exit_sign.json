@@ -1,0 +1,9 @@
+{
+  "parent": "basics_in_geometry:custom/exitsign",
+  "textures": {
+    "all": "basics_in_geometry:block/exitsign",
+    "particle": "basics_in_geometry:block/exitsign",
+    "1": "basics_in_geometry:block/exitsign"
+  },
+  "render_type": "solid"
+}

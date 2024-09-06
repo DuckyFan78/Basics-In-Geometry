@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "poster7"
+      },
+      "name": "default"
+    }
+  }
+}

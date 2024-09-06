@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_right_open",
+  "textures": {
+    "particle": "basics_in_geometry:block/classroombottom",
+    "bottom": "basics_in_geometry:block/classroombottom",
+    "top": "basics_in_geometry:block/classroomtop"
+  },
+  "render_type": "solid"
+}

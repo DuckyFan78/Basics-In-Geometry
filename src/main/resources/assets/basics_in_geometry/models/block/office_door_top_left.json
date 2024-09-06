@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_left",
+  "textures": {
+    "particle": "basics_in_geometry:block/baldibottom",
+    "bottom": "basics_in_geometry:block/baldibottom",
+    "top": "basics_in_geometry:block/balditop"
+  },
+  "render_type": "cutout"
+}
