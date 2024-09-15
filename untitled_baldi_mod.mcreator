@@ -699,6 +699,24 @@
           "src/main/resources/data/basics_in_geometry/loot_tables/blocks/window_2.json"
         ]
       }
+    },
+    {
+      "name": "SpeedBoost",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "speed_boost",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/procedures/SpeedBoostProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -711,13 +729,13 @@
       "block.untitled_baldi_mod.schoolhouse_wall_top": "Schoolhouse Brick Wall [Top]",
       "block.basics_in_geometry.school_rules_poster": "School Rules Poster",
       "block.basics_in_geometry.schoolhouse_tiles": "Schoolhouse Tiles 1",
-      "block.untitled_baldi_mod.blue_locker": "Blue Locker",
       "block.untitled_baldi_mod.office_door": "Baldi\u0027s Office Door",
-      "item_group.basics_in_geometry.untitled_baldi_mod": "Basics In Geometry",
+      "block.untitled_baldi_mod.blue_locker": "Blue Locker",
       "block.basics_in_geometry.window_1": "Window 1",
+      "item_group.basics_in_geometry.untitled_baldi_mod": "Basics In Geometry",
       "block.untitled_baldi_mod.school_house_wall_2": "Schoolhouse Wood Wall",
-      "block.untitled_baldi_mod.swinging_door": "Swinging Door",
       "block.basics_in_geometry.window_2": "Window 1",
+      "block.untitled_baldi_mod.swinging_door": "Swinging Door",
       "block.basics_in_geometry.scissors_poster": "Scissors Poster",
       "block.basics_in_geometry.school_house_wall_2": "Schoolhouse Wood Wall",
       "block.untitled_baldi_mod.chair": "Chair",

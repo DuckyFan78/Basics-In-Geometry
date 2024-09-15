@@ -37,6 +37,9 @@
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 1,
+    "onFinishUsingItem": {
+      "name": "SpeedBoost"
+    },
     "enableRanged": false,
     "shootConstantly": false,
     "rangedItemChargesPower": false,
