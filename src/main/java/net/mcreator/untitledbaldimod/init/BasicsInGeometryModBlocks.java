@@ -44,6 +44,7 @@ import net.mcreator.untitledbaldimod.block.DeskBlock;
 import net.mcreator.untitledbaldimod.block.ClassroomDoorBlock;
 import net.mcreator.untitledbaldimod.block.ChairBlock;
 import net.mcreator.untitledbaldimod.block.CellphonePosterBlock;
+import net.mcreator.untitledbaldimod.block.CafeteriaTableBlock;
 import net.mcreator.untitledbaldimod.block.BoardBlock;
 import net.mcreator.untitledbaldimod.block.BlueLockerBlock;
 import net.mcreator.untitledbaldimod.block.BSODAVendingMachineBlock;
@@ -90,6 +91,7 @@ public class BasicsInGeometryModBlocks {
 	public static final RegistryObject<Block> PLANT = REGISTRY.register("plant", () -> new PlantBlock());
 	public static final RegistryObject<Block> WINDOW_1 = REGISTRY.register("window_1", () -> new Window1Block());
 	public static final RegistryObject<Block> WINDOW_2 = REGISTRY.register("window_2", () -> new Window2Block());
+	public static final RegistryObject<Block> CAFETERIA_TABLE = REGISTRY.register("cafeteria_table", () -> new CafeteriaTableBlock());
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }

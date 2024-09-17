@@ -10,6 +10,6 @@ public class SpeedBoostProcedure {
 		if (entity == null)
 			return;
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-			_entity.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 60, 1));
+			_entity.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 1800, 1));
 	}
 }

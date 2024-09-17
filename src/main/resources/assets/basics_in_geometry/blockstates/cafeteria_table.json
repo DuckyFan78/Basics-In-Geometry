@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "basics_in_geometry:block/cafeteria_table"
+    },
+    "facing=east": {
+      "model": "basics_in_geometry:block/cafeteria_table",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "basics_in_geometry:block/cafeteria_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "basics_in_geometry:block/cafeteria_table",
+      "y": 270
+    }
+  }
+}

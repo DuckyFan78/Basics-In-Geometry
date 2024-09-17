@@ -58,6 +58,7 @@ public class BasicsInGeometryModTabs {
 				tabData.accept(BasicsInGeometryModBlocks.PLANT.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.WINDOW_1.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.WINDOW_2.get().asItem());
+				tabData.accept(BasicsInGeometryModBlocks.CAFETERIA_TABLE.get().asItem());
 			})
 
 					.build());

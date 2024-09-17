@@ -59,6 +59,7 @@ public class BasicsInGeometryModItems {
 	public static final RegistryObject<Item> PLANT = block(BasicsInGeometryModBlocks.PLANT);
 	public static final RegistryObject<Item> WINDOW_1 = block(BasicsInGeometryModBlocks.WINDOW_1);
 	public static final RegistryObject<Item> WINDOW_2 = block(BasicsInGeometryModBlocks.WINDOW_2);
+	public static final RegistryObject<Item> CAFETERIA_TABLE = block(BasicsInGeometryModBlocks.CAFETERIA_TABLE);
 
 	// Start of user code block custom items
 	// End of user code block custom items

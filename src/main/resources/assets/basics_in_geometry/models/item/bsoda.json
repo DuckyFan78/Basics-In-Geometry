@@ -1,6 +1,7 @@
 {
-  "parent": "item/generated",
+  "parent": "basics_in_geometry:custom/bsoda",
   "textures": {
-    "layer0": "basics_in_geometry:item/bsoda_icon"
+    "0": "basics_in_geometry:block/bsoda",
+    "particle": "basics_in_geometry:item/bsoda_icon"
   }
 }

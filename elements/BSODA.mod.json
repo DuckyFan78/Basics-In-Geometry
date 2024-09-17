@@ -2,9 +2,9 @@
   "_fv": 66,
   "_type": "item",
   "definition": {
-    "renderType": 0,
+    "renderType": 1,
     "texture": "bsoda_icon",
-    "customModelName": "Normal",
+    "customModelName": "bsoda:default",
     "customProperties": {},
     "states": [],
     "name": "BSODA",
