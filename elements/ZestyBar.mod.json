@@ -2,9 +2,9 @@
   "_fv": 66,
   "_type": "item",
   "definition": {
-    "renderType": 0,
+    "renderType": 1,
     "texture": "zestybar_icon",
-    "customModelName": "Normal",
+    "customModelName": "zestybar:default",
     "customProperties": {},
     "states": [],
     "name": "Energy Flavored Zesty Bar",

@@ -1,6 +1,7 @@
 {
-  "parent": "item/generated",
+  "parent": "basics_in_geometry:custom/zestybar",
   "textures": {
-    "layer0": "basics_in_geometry:item/zestybar_icon"
+    "2": "basics_in_geometry:block/zesty_bar",
+    "particle": "basics_in_geometry:item/zestybar_icon"
   }
 }
