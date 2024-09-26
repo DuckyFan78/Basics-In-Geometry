@@ -1,7 +1,31 @@
 {
-  "parent": "basics_in_geometry:custom/zestybar",
-  "textures": {
-    "2": "basics_in_geometry:block/zesty_bar",
-    "particle": "basics_in_geometry:item/zestybar_icon"
+  "loader": "forge:separate_transforms",
+  "gui_light": "front",
+  "base": {
+    "parent": "basics_in_geometry:custom/zestybar",
+    "textures": {
+      "0": "basics_in_geometry:block/zesty_bar"
+    }
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "basics_in_geometry:item/zestybar_icon"
+      },
+      "gui_light": "front"
+    },
+    "ground": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "basics_in_geometry:item/zestybar_icon"
+      }
+    },
+    "fixed": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "basics_in_geometry:item/zestybar_icon"
+      }
+    }
   }
 }

@@ -60,6 +60,9 @@ public class BasicsInGeometryModItems {
 	public static final RegistryObject<Item> WINDOW_1 = block(BasicsInGeometryModBlocks.WINDOW_1);
 	public static final RegistryObject<Item> WINDOW_2 = block(BasicsInGeometryModBlocks.WINDOW_2);
 	public static final RegistryObject<Item> CAFETERIA_TABLE = block(BasicsInGeometryModBlocks.CAFETERIA_TABLE);
+	public static final RegistryObject<Item> OUT_OF_ORDER_POSTER = block(BasicsInGeometryModBlocks.OUT_OF_ORDER_POSTER);
+	public static final RegistryObject<Item> NOTEBOOKS_POSTER = block(BasicsInGeometryModBlocks.NOTEBOOKS_POSTER);
+	public static final RegistryObject<Item> READ_POSTERS = block(BasicsInGeometryModBlocks.READ_POSTERS);
 
 	// Start of user code block custom items
 	// End of user code block custom items

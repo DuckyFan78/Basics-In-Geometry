@@ -32,10 +32,13 @@ import net.mcreator.untitledbaldimod.block.SchoolHouseTiles2Block;
 import net.mcreator.untitledbaldimod.block.SchoolFacultyDoorBlock;
 import net.mcreator.untitledbaldimod.block.RedLockerBlock;
 import net.mcreator.untitledbaldimod.block.RecyclingPosterBlock;
+import net.mcreator.untitledbaldimod.block.ReadPostersBlock;
 import net.mcreator.untitledbaldimod.block.PrincipalDoorBlock;
 import net.mcreator.untitledbaldimod.block.PlantBlock;
+import net.mcreator.untitledbaldimod.block.OutOfOrderPosterBlock;
 import net.mcreator.untitledbaldimod.block.OfficeDoorBlock;
 import net.mcreator.untitledbaldimod.block.NumbersAreEasyPosterBlock;
+import net.mcreator.untitledbaldimod.block.NotebooksPosterBlock;
 import net.mcreator.untitledbaldimod.block.LightBlockBlock;
 import net.mcreator.untitledbaldimod.block.JanitorBootsPosterBlock;
 import net.mcreator.untitledbaldimod.block.GreenLockerBlock;
@@ -92,6 +95,9 @@ public class BasicsInGeometryModBlocks {
 	public static final RegistryObject<Block> WINDOW_1 = REGISTRY.register("window_1", () -> new Window1Block());
 	public static final RegistryObject<Block> WINDOW_2 = REGISTRY.register("window_2", () -> new Window2Block());
 	public static final RegistryObject<Block> CAFETERIA_TABLE = REGISTRY.register("cafeteria_table", () -> new CafeteriaTableBlock());
+	public static final RegistryObject<Block> OUT_OF_ORDER_POSTER = REGISTRY.register("out_of_order_poster", () -> new OutOfOrderPosterBlock());
+	public static final RegistryObject<Block> NOTEBOOKS_POSTER = REGISTRY.register("notebooks_poster", () -> new NotebooksPosterBlock());
+	public static final RegistryObject<Block> READ_POSTERS = REGISTRY.register("read_posters", () -> new ReadPostersBlock());
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }

@@ -59,6 +59,9 @@ public class BasicsInGeometryModTabs {
 				tabData.accept(BasicsInGeometryModBlocks.WINDOW_1.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.WINDOW_2.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.CAFETERIA_TABLE.get().asItem());
+				tabData.accept(BasicsInGeometryModBlocks.OUT_OF_ORDER_POSTER.get().asItem());
+				tabData.accept(BasicsInGeometryModBlocks.NOTEBOOKS_POSTER.get().asItem());
+				tabData.accept(BasicsInGeometryModBlocks.READ_POSTERS.get().asItem());
 			})
 
 					.build());

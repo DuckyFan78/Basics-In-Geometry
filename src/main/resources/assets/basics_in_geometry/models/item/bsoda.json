@@ -1,7 +1,32 @@
 {
-  "parent": "basics_in_geometry:custom/bsoda",
-  "textures": {
-    "0": "basics_in_geometry:block/bsoda",
-    "particle": "basics_in_geometry:item/bsoda_icon"
+  "loader": "forge:separate_transforms",
+  "gui_light": "front",
+  "base": {
+    "parent": "basics_in_geometry:custom/bsoda",
+    "textures": {
+      "0": "basics_in_geometry:block/bsoda"
+    }
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "basics_in_geometry:item/bsoda_icon"
+      },
+      "gui_light": "front"
+    },
+    "ground": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "basics_in_geometry:item/bsoda_icon"
+      }
+    },
+    "fixed": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "basics_in_geometry:item/bsoda_icon"
+      }
+    }
   }
 }
+ 

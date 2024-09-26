@@ -614,7 +614,7 @@
       "name": "BSODA",
       "type": "item",
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "bsoda",
       "metadata": {
         "files": [
@@ -627,7 +627,7 @@
       "name": "ZestyBar",
       "type": "item",
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "zesty_bar",
       "metadata": {
         "files": [
@@ -733,6 +733,54 @@
           "src/main/resources/assets/basics_in_geometry/blockstates/cafeteria_table.json"
         ]
       }
+    },
+    {
+      "name": "OutOfOrderPoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "out_of_order_poster",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/OutOfOrderPosterBlock.java",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/out_of_order_poster.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/out_of_order_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/out_of_order_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/out_of_order_poster.json"
+        ]
+      }
+    },
+    {
+      "name": "NotebooksPoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "notebooks_poster",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/notebooks_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/notebooks_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/notebooks_poster.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/notebooks_poster.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/NotebooksPosterBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "ReadPosters",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "read_posters",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/ReadPostersBlock.java",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/read_posters.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/read_posters.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/read_posters.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/read_posters.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -747,11 +795,12 @@
       "block.basics_in_geometry.schoolhouse_tiles": "Schoolhouse Tiles 1",
       "block.untitled_baldi_mod.office_door": "Baldi\u0027s Office Door",
       "block.untitled_baldi_mod.blue_locker": "Blue Locker",
-      "block.basics_in_geometry.window_1": "Window 1",
       "item_group.basics_in_geometry.untitled_baldi_mod": "Basics In Geometry",
+      "block.basics_in_geometry.window_1": "Window 1",
       "block.untitled_baldi_mod.school_house_wall_2": "Schoolhouse Wood Wall",
-      "block.basics_in_geometry.window_2": "Window 1",
+      "block.basics_in_geometry.out_of_order_poster": "Out Of Order Poster",
       "block.untitled_baldi_mod.swinging_door": "Swinging Door",
+      "block.basics_in_geometry.window_2": "Window 1",
       "block.basics_in_geometry.scissors_poster": "Scissors Poster",
       "block.basics_in_geometry.school_house_wall_2": "Schoolhouse Wood Wall",
       "block.untitled_baldi_mod.chair": "Chair",
@@ -786,6 +835,7 @@
       "block.basics_in_geometry.classroom_door": "Classroom Door",
       "block.untitled_baldi_mod.principal_door": "Principal\u0027s Office Door",
       "block.basics_in_geometry.principal_door": "Principal\u0027s Office Door",
+      "block.basics_in_geometry.notebooks_poster": "Notebooks Poster",
       "block.basics_in_geometry.small_desk": "Small Desk",
       "block.untitled_baldi_mod.schoolhouse_wall_1": "Schoolhouse Brick Wall [Middle]",
       "block.basics_in_geometry.attention_poster": "Attention Poster",
@@ -812,6 +862,7 @@
       "gui.basics_in_geometry.green_locker_gui.label_green_locker": "Green Locker",
       "block.basics_in_geometry.school_faculty_door": "School Faculty Only Door",
       "block.basics_in_geometry.supply_closet_door": "Supply Closet Door",
+      "block.basics_in_geometry.read_posters": "Reading Poster",
       "block.basics_in_geometry.exit_sign": "Exit Sign",
       "block.basics_in_geometry.swinging_door": "Swinging Door",
       "block.basics_in_geometry.bsoda_vending_machine": "BSODA Vending Machine",
