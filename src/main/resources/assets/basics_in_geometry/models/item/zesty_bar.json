@@ -4,7 +4,7 @@
   "base": {
     "parent": "basics_in_geometry:custom/zestybar",
     "textures": {
-      "0": "basics_in_geometry:block/zesty_bar"
+      "0": "basics_in_geometry:block/zestybar"
     }
   },
   "perspectives": {
