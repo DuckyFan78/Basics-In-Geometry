@@ -12,7 +12,7 @@ import net.mcreator.untitledbaldimod.procedures.SpeedBoostProcedure;
 
 public class ZestyBarItem extends Item {
 	public ZestyBarItem() {
-		super(new Item.Properties().stacksTo(64).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(4).saturationMod(0.3f).alwaysEat().build()));
+		super(new Item.Properties().stacksTo(1).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(3).saturationMod(0.3f).alwaysEat().build()));
 	}
 
 	@Override

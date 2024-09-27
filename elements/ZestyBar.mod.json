@@ -14,7 +14,7 @@
         "value": "CUSTOM:UntitledBaldiMod"
       }
     ],
-    "stackSize": 64,
+    "stackSize": 1,
     "enchantability": 0,
     "useDuration": 32,
     "toolType": 1.0,
@@ -36,7 +36,7 @@
     },
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
-    "inventoryStackSize": 1,
+    "inventoryStackSize": 64,
     "onFinishUsingItem": {
       "name": "SpeedBoost"
     },
@@ -47,7 +47,7 @@
       "value": "Arrow"
     },
     "isFood": true,
-    "nutritionalValue": 4,
+    "nutritionalValue": 3,
     "saturation": 0.3,
     "eatResultItem": {
       "value": ""

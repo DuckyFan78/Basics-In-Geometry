@@ -53,7 +53,6 @@ public class BasicsInGeometryModTabs {
 				tabData.accept(BasicsInGeometryModBlocks.NUMBERS_ARE_EASY_POSTER.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.BSODA_VENDING_MACHINE.get().asItem());
 				tabData.accept(BasicsInGeometryModItems.BSODA.get());
-				tabData.accept(BasicsInGeometryModItems.ZESTY_BAR.get());
 				tabData.accept(BasicsInGeometryModBlocks.ZESTY_BAR_VENDING_MACHINE.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.PLANT.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.WINDOW_1.get().asItem());
@@ -62,6 +61,7 @@ public class BasicsInGeometryModTabs {
 				tabData.accept(BasicsInGeometryModBlocks.OUT_OF_ORDER_POSTER.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.NOTEBOOKS_POSTER.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.READ_POSTERS.get().asItem());
+				tabData.accept(BasicsInGeometryModItems.ZESTY_BAR.get());
 			})
 
 					.build());

@@ -624,19 +624,6 @@
       }
     },
     {
-      "name": "ZestyBar",
-      "type": "item",
-      "compiles": true,
-      "locked_code": true,
-      "registry_name": "zesty_bar",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/basics_in_geometry/models/item/zesty_bar.json",
-          "src/main/java/net/mcreator/untitledbaldimod/item/ZestyBarItem.java"
-        ]
-      }
-    },
-    {
       "name": "ZestyBarVendingMachine",
       "type": "block",
       "compiles": true,
@@ -779,6 +766,19 @@
           "src/main/resources/assets/basics_in_geometry/models/item/read_posters.json",
           "src/main/resources/assets/basics_in_geometry/blockstates/read_posters.json",
           "src/main/resources/assets/basics_in_geometry/models/block/read_posters.json"
+        ]
+      }
+    },
+    {
+      "name": "ZestyBar",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "zesty_bar",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/item/zesty_bar.json",
+          "src/main/java/net/mcreator/untitledbaldimod/item/ZestyBarItem.java"
         ]
       }
     }

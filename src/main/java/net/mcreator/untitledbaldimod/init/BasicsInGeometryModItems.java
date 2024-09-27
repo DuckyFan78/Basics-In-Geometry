@@ -54,7 +54,6 @@ public class BasicsInGeometryModItems {
 	public static final RegistryObject<Item> NUMBERS_ARE_EASY_POSTER = block(BasicsInGeometryModBlocks.NUMBERS_ARE_EASY_POSTER);
 	public static final RegistryObject<Item> BSODA_VENDING_MACHINE = block(BasicsInGeometryModBlocks.BSODA_VENDING_MACHINE);
 	public static final RegistryObject<Item> BSODA = REGISTRY.register("bsoda", () -> new BSODAItem());
-	public static final RegistryObject<Item> ZESTY_BAR = REGISTRY.register("zesty_bar", () -> new ZestyBarItem());
 	public static final RegistryObject<Item> ZESTY_BAR_VENDING_MACHINE = block(BasicsInGeometryModBlocks.ZESTY_BAR_VENDING_MACHINE);
 	public static final RegistryObject<Item> PLANT = block(BasicsInGeometryModBlocks.PLANT);
 	public static final RegistryObject<Item> WINDOW_1 = block(BasicsInGeometryModBlocks.WINDOW_1);
@@ -63,6 +62,7 @@ public class BasicsInGeometryModItems {
 	public static final RegistryObject<Item> OUT_OF_ORDER_POSTER = block(BasicsInGeometryModBlocks.OUT_OF_ORDER_POSTER);
 	public static final RegistryObject<Item> NOTEBOOKS_POSTER = block(BasicsInGeometryModBlocks.NOTEBOOKS_POSTER);
 	public static final RegistryObject<Item> READ_POSTERS = block(BasicsInGeometryModBlocks.READ_POSTERS);
+	public static final RegistryObject<Item> ZESTY_BAR = REGISTRY.register("zesty_bar", () -> new ZestyBarItem());
 
 	// Start of user code block custom items
 	// End of user code block custom items
