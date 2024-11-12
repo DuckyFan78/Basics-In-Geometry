@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "basics_in_geometry:block/light_block"
+    },
+    "facing=east": {
+      "model": "basics_in_geometry:block/light_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "basics_in_geometry:block/light_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "basics_in_geometry:block/light_block",
+      "y": 270
+    }
+  }
+}

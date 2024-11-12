@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "untitled_baldi_mod:items/swingingdoor"
+  },
+  "render_type": "translucent"
+}

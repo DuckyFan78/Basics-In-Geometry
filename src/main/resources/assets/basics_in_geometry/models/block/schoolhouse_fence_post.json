@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "particle": "basics_in_geometry:block/fence",
+    "edge": "basics_in_geometry:block/fence",
+    "pane": "basics_in_geometry:block/fence"
+  },
+  "render_type": "cutout_mipped"
+}

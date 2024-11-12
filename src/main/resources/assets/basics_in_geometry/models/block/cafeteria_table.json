@@ -1,0 +1,9 @@
+{
+  "parent": "basics_in_geometry:custom/cafeteriatable",
+  "textures": {
+    "all": "basics_in_geometry:block/cafeteriatable",
+    "particle": "basics_in_geometry:block/staffbottom",
+    "0": "basics_in_geometry:block/cafeteriatable"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "basics_in_geometry:custom/zestybarmachine",
+  "textures": {
+    "all": "basics_in_geometry:block/zestybar_vending_machine",
+    "particle": "basics_in_geometry:block/zestybar_vending_machine",
+    "0": "basics_in_geometry:block/zestybar_vending_machine"
+  },
+  "render_type": "solid"
+}

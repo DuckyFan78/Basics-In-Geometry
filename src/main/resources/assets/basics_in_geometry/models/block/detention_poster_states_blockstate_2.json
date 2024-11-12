@@ -1,0 +1,9 @@
+{
+  "parent": "basics_in_geometry:custom/bullyposter",
+  "textures": {
+    "all": "basics_in_geometry:block/detention_poster_bully",
+    "particle": "basics_in_geometry:block/detention_poster_baldi",
+    "0": "basics_in_geometry:block/detention_poster_bully"
+  },
+  "render_type": "cutout"
+}

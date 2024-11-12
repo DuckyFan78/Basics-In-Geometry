@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "basics_in_geometry:block/wali",
+    "up": "basics_in_geometry:block/wali",
+    "north": "basics_in_geometry:block/wali",
+    "east": "basics_in_geometry:block/wali",
+    "south": "basics_in_geometry:block/wali",
+    "west": "basics_in_geometry:block/wali",
+    "particle": "basics_in_geometry:block/wali"
+  },
+  "render_type": "solid"
+}

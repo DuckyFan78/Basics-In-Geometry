@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "basics_in_geometry:block/wood",
+    "up": "basics_in_geometry:block/wood",
+    "north": "basics_in_geometry:block/wood",
+    "east": "basics_in_geometry:block/wood",
+    "south": "basics_in_geometry:block/wood",
+    "west": "basics_in_geometry:block/wood",
+    "particle": "basics_in_geometry:block/wood"
+  },
+  "render_type": "solid"
+}

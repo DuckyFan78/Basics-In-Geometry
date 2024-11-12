@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "detention_poster_playtime"
+      },
+      "name": "default"
+    }
+  }
+}

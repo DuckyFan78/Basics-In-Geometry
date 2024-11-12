@@ -1,0 +1,9 @@
+{
+  "parent": "untitled_baldi_mod:custom/deskbig",
+  "textures": {
+    "all": "untitled_baldi_mod:blocks/bigdesk",
+    "particle": "untitled_baldi_mod:blocks/bigdesk",
+    "0": "untitled_baldi_mod:blocks/bigdesk"
+  },
+  "render_type": "solid"
+}

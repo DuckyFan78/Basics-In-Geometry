@@ -1,0 +1,9 @@
+{
+  "parent": "basics_in_geometry:custom/desksmall",
+  "textures": {
+    "all": "basics_in_geometry:block/desksmall",
+    "particle": "basics_in_geometry:block/desksmall",
+    "0": "basics_in_geometry:block/desksmall"
+  },
+  "render_type": "solid"
+}

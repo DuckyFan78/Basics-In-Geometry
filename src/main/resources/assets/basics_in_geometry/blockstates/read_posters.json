@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "basics_in_geometry:block/read_posters"
+    },
+    "facing=east": {
+      "model": "basics_in_geometry:block/read_posters",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "basics_in_geometry:block/read_posters",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "basics_in_geometry:block/read_posters",
+      "y": 270
+    }
+  }
+}

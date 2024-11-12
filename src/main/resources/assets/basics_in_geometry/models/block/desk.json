@@ -1,0 +1,9 @@
+{
+  "parent": "basics_in_geometry:custom/deskbig",
+  "textures": {
+    "all": "basics_in_geometry:block/bigdesk",
+    "particle": "basics_in_geometry:block/bigdesk",
+    "0": "basics_in_geometry:block/bigdesk"
+  },
+  "render_type": "solid"
+}

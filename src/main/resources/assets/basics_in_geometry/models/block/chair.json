@@ -1,0 +1,9 @@
+{
+  "parent": "basics_in_geometry:custom/chair",
+  "textures": {
+    "all": "basics_in_geometry:block/chair",
+    "particle": "basics_in_geometry:block/chair",
+    "1": "basics_in_geometry:block/chair"
+  },
+  "render_type": "solid"
+}

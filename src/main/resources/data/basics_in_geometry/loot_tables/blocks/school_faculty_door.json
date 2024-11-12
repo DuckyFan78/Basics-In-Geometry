@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "basics_in_geometry:blocks/school_faculty_door",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "basics_in_geometry:school_faculty_door",
+          "conditions": [
+            {
+              "block": "basics_in_geometry:school_faculty_door",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "loader": "forge:separate_transforms",
+  "gui_light": "front",
+  "base": {
+    "parent": "basics_in_geometry:custom/you_can_think_pad",
+    "textures": {
+      "0": "basics_in_geometry:block/youcanthinkpad"
+    }
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "basics_in_geometry:item/yctp_icon"
+      },
+      "gui_light": "front"
+    },
+    "ground": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "basics_in_geometry:item/yctp_icon"
+      }
+    },
+    "fixed": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "basics_in_geometry:item/yctp_icon"
+      }
+    }
+  }
+}

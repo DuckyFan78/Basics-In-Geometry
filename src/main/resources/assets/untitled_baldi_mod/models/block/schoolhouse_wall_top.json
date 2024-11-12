@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "untitled_baldi_mod:blocks/wali",
+    "up": "untitled_baldi_mod:blocks/wall_top_top",
+    "north": "untitled_baldi_mod:blocks/wall_top",
+    "east": "untitled_baldi_mod:blocks/wall_top",
+    "south": "untitled_baldi_mod:blocks/wall_top",
+    "west": "untitled_baldi_mod:blocks/wall_top",
+    "particle": "untitled_baldi_mod:blocks/wali"
+  },
+  "render_type": "solid"
+}

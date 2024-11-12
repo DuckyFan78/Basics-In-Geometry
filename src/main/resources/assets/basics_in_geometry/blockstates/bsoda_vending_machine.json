@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "basics_in_geometry:block/bsoda_vending_machine"
+    },
+    "facing=east": {
+      "model": "basics_in_geometry:block/bsoda_vending_machine",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "basics_in_geometry:block/bsoda_vending_machine",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "basics_in_geometry:block/bsoda_vending_machine",
+      "y": 270
+    }
+  }
+}

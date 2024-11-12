@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "basics_in_geometry:block/rewarded_4_thinking_poster"
+    },
+    "facing=east": {
+      "model": "basics_in_geometry:block/rewarded_4_thinking_poster",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "basics_in_geometry:block/rewarded_4_thinking_poster",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "basics_in_geometry:block/rewarded_4_thinking_poster",
+      "y": 270
+    }
+  }
+}

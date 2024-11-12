@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "untitled_baldi_mod:block/blue_locker"
+    },
+    "facing=east": {
+      "model": "untitled_baldi_mod:block/blue_locker",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "untitled_baldi_mod:block/blue_locker",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "untitled_baldi_mod:block/blue_locker",
+      "y": 270
+    }
+  }
+}

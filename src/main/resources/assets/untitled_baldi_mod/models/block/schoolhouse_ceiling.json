@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "untitled_baldi_mod:blocks/ceiling",
+    "up": "untitled_baldi_mod:blocks/ceiling",
+    "north": "untitled_baldi_mod:blocks/ceiling",
+    "east": "untitled_baldi_mod:blocks/ceiling",
+    "south": "untitled_baldi_mod:blocks/ceiling",
+    "west": "untitled_baldi_mod:blocks/ceiling",
+    "particle": "untitled_baldi_mod:blocks/ceiling"
+  },
+  "render_type": "solid"
+}

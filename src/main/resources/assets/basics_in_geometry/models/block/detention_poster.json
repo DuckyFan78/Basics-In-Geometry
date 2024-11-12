@@ -1,0 +1,9 @@
+{
+  "parent": "basics_in_geometry:custom/baldiposter",
+  "textures": {
+    "all": "basics_in_geometry:block/detention_poster_baldi",
+    "particle": "basics_in_geometry:block/detention_poster_baldi",
+    "0": "basics_in_geometry:block/detention_poster_baldi"
+  },
+  "render_type": "cutout"
+}

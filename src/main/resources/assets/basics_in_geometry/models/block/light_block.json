@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "basics_in_geometry:block/lights",
+    "up": "basics_in_geometry:block/lights",
+    "north": "basics_in_geometry:block/lights",
+    "east": "basics_in_geometry:block/lights",
+    "south": "basics_in_geometry:block/lights",
+    "west": "basics_in_geometry:block/lights",
+    "particle": "basics_in_geometry:block/lights"
+  },
+  "render_type": "solid"
+}

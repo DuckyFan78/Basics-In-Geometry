@@ -1,0 +1,9 @@
+{
+  "parent": "basics_in_geometry:custom/board",
+  "textures": {
+    "all": "basics_in_geometry:block/board",
+    "particle": "basics_in_geometry:block/board",
+    "0": "basics_in_geometry:block/board"
+  },
+  "render_type": "solid"
+}

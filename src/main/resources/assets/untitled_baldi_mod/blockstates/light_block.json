@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "untitled_baldi_mod:block/light_block"
+    },
+    "facing=east": {
+      "model": "untitled_baldi_mod:block/light_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "untitled_baldi_mod:block/light_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "untitled_baldi_mod:block/light_block",
+      "y": 270
+    }
+  }
+}

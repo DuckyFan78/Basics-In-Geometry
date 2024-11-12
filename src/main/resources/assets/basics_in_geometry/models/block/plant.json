@@ -1,0 +1,9 @@
+{
+  "parent": "basics_in_geometry:custom/plant",
+  "textures": {
+    "all": "basics_in_geometry:block/plant",
+    "particle": "basics_in_geometry:block/plant",
+    "0": "basics_in_geometry:block/plant"
+  },
+  "render_type": "cutout"
+}

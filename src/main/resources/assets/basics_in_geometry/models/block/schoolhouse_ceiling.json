@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "basics_in_geometry:block/ceiling",
+    "up": "basics_in_geometry:block/ceiling",
+    "north": "basics_in_geometry:block/ceiling",
+    "east": "basics_in_geometry:block/ceiling",
+    "south": "basics_in_geometry:block/ceiling",
+    "west": "basics_in_geometry:block/ceiling",
+    "particle": "basics_in_geometry:block/ceiling"
+  },
+  "render_type": "solid"
+}

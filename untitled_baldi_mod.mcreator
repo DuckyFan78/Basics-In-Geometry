@@ -1,0 +1,1063 @@
+{
+  "mod_elements": [
+    {
+      "name": "SchoolhouseCeiling",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schoolhouse_ceiling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/SchoolhouseCeilingBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/item/schoolhouse_ceiling.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/schoolhouse_ceiling.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/schoolhouse_ceiling.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/schoolhouse_ceiling.json"
+        ]
+      }
+    },
+    {
+      "name": "UntitledBaldiMod",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basics_in_geometry",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "SchoolhouseFloor",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schoolhouse_floor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/schoolhouse_floor.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/schoolhouse_floor.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/schoolhouse_floor.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/schoolhouse_floor.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/SchoolhouseFloorBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "SchoolhouseCarpet",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schoolhouse_carpet",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/SchoolhouseCarpetBlock.java",
+          "src/main/resources/assets/basics_in_geometry/blockstates/schoolhouse_carpet.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/schoolhouse_carpet.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/schoolhouse_carpet.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/schoolhouse_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "SchoolhouseWall1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schoolhouse_wall_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/schoolhouse_wall_1.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/schoolhouse_wall_1.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/schoolhouse_wall_1.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/SchoolhouseWall1Block.java",
+          "src/main/resources/assets/basics_in_geometry/blockstates/schoolhouse_wall_1.json"
+        ]
+      }
+    },
+    {
+      "name": "SchoolhouseWallTop",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schoolhouse_wall_top",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/item/schoolhouse_wall_top.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/SchoolhouseWallTopBlock.java",
+          "src/main/resources/assets/basics_in_geometry/blockstates/schoolhouse_wall_top.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/schoolhouse_wall_top.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/schoolhouse_wall_top.json"
+        ]
+      }
+    },
+    {
+      "name": "SchoolHouseWallBottom",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "school_house_wall_bottom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/school_house_wall_bottom.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/school_house_wall_bottom.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/SchoolHouseWallBottomBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/block/school_house_wall_bottom.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/school_house_wall_bottom.json"
+        ]
+      }
+    },
+    {
+      "name": "SchoolHouseWall2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "school_house_wall_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/SchoolHouseWall2Block.java",
+          "src/main/resources/assets/basics_in_geometry/models/block/school_house_wall_2.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/school_house_wall_2.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/school_house_wall_2.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/school_house_wall_2.json"
+        ]
+      }
+    },
+    {
+      "name": "SchoolhouseTiles",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schoolhouse_tiles",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/SchoolhouseTilesBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/block/schoolhouse_tiles.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/schoolhouse_tiles.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/schoolhouse_tiles.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/schoolhouse_tiles.json"
+        ]
+      }
+    },
+    {
+      "name": "SchoolhouseCeiling2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schoolhouse_ceiling_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/item/schoolhouse_ceiling_2.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/schoolhouse_ceiling_2.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/SchoolhouseCeiling2Block.java",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/schoolhouse_ceiling_2.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/schoolhouse_ceiling_2.json"
+        ]
+      }
+    },
+    {
+      "name": "SwingingDoor",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "swinging_door",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/item/swinging_door.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/SwingingDoorBlock.java",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/swinging_door.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/swinging_door.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/swinging_door_top_right.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/swinging_door_bottom_left_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/swinging_door_top_left.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/swinging_door_top_left_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/swinging_door_bottom_right_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/swinging_door_top_right_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/swinging_door_bottom_right.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/swinging_door_bottom_left.json"
+        ]
+      }
+    },
+    {
+      "name": "ClassroomDoor",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "classroom_door",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/ClassroomDoorBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/block/classroom_door_bottom_left_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/classroom_door_top_left.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/classroom_door.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/classroom_door_bottom_right.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/classroom_door_bottom_right_open.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/classroom_door.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/classroom_door_top_left_open.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/classroom_door.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/classroom_door_bottom_left.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/classroom_door_top_right.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/classroom_door_top_right_open.json"
+        ]
+      }
+    },
+    {
+      "name": "SchoolFacultyDoor",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "school_faculty_door",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/block/school_faculty_door_top_left.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/school_faculty_door_top_right_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/school_faculty_door.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/school_faculty_door.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/school_faculty_door_bottom_left_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/school_faculty_door_bottom_right_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/school_faculty_door_bottom_right.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/school_faculty_door_top_right.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/school_faculty_door_bottom_left.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/school_faculty_door_top_left_open.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/school_faculty_door.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/SchoolFacultyDoorBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "SupplyClosetDoor",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "supply_closet_door",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/supply_closet_door.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/supply_closet_door_bottom_left_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/supply_closet_door_top_left_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/supply_closet_door.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/supply_closet_door_bottom_right.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/supply_closet_door_bottom_left.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/supply_closet_door_top_right_open.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/supply_closet_door.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/supply_closet_door_top_right.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/SupplyClosetDoorBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/block/supply_closet_door_top_left.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/supply_closet_door_bottom_right_open.json"
+        ]
+      }
+    },
+    {
+      "name": "PrincipalDoor",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "principal_door",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/block/principal_door_bottom_right.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/principal_door.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/principal_door_bottom_left.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/PrincipalDoorBlock.java",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/principal_door.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/principal_door_bottom_left_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/principal_door_top_right_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/principal_door_bottom_right_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/principal_door_top_right.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/principal_door_top_left.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/principal_door.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/principal_door_top_left_open.json"
+        ]
+      }
+    },
+    {
+      "name": "OfficeDoor",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "office_door",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/block/office_door_bottom_right_open.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/OfficeDoorBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/block/office_door_top_right.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/office_door.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/office_door_top_left.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/office_door.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/office_door.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/office_door_bottom_left.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/office_door_top_left_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/office_door_bottom_left_open.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/office_door_bottom_right.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/office_door_top_right_open.json"
+        ]
+      }
+    },
+    {
+      "name": "SchoolRulesPoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "school_rules_poster",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/item/school_rules_poster.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/SchoolRulesPosterBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/block/school_rules_poster.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/school_rules_poster.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/school_rules_poster.json"
+        ]
+      }
+    },
+    {
+      "name": "RecyclingPoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recycling_poster",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/RecyclingPosterBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/block/recycling_poster.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/recycling_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/recycling_poster.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/recycling_poster.json"
+        ]
+      }
+    },
+    {
+      "name": "AttentionPoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "attention_poster",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/item/attention_poster.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/attention_poster.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/AttentionPosterBlock.java",
+          "src/main/resources/assets/basics_in_geometry/blockstates/attention_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/attention_poster.json"
+        ]
+      }
+    },
+    {
+      "name": "JanitorBootsPoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "janitor_boots_poster",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/item/janitor_boots_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/janitor_boots_poster.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/janitor_boots_poster.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/janitor_boots_poster.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/JanitorBootsPosterBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "RedLocker",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_locker",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/red_locker.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/RedLockerBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/item/red_locker.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/red_locker.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/red_locker.json"
+        ]
+      }
+    },
+    {
+      "name": "BlueLocker",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_locker",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/item/blue_locker.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/blue_locker.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/BlueLockerBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/block/blue_locker.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/blue_locker.json"
+        ]
+      }
+    },
+    {
+      "name": "SchoolHouseTiles2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "school_house_tiles_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/item/school_house_tiles_2.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/school_house_tiles_2.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/school_house_tiles_2.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/SchoolHouseTiles2Block.java",
+          "src/main/resources/assets/basics_in_geometry/blockstates/school_house_tiles_2.json"
+        ]
+      }
+    },
+    {
+      "name": "SmallDesk",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_desk",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/SmallDeskBlock.java",
+          "src/main/resources/assets/basics_in_geometry/blockstates/small_desk.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/small_desk.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/small_desk.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/small_desk.json"
+        ]
+      }
+    },
+    {
+      "name": "Desk",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desk",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/desk.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/desk.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/desk.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/desk.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/DeskBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "CellphonePoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cellphone_poster",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/cellphone_poster.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/CellphonePosterBlock.java",
+          "src/main/resources/assets/basics_in_geometry/blockstates/cellphone_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/cellphone_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/cellphone_poster.json"
+        ]
+      }
+    },
+    {
+      "name": "ScissorsPoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scissors_poster",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/ScissorsPosterBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/item/scissors_poster.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/scissors_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/scissors_poster.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/scissors_poster.json"
+        ]
+      }
+    },
+    {
+      "name": "WDNoSqueePoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wd_no_squee_poster",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/block/wd_no_squee_poster.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/WDNoSqueePosterBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/item/wd_no_squee_poster.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/wd_no_squee_poster.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/wd_no_squee_poster.json"
+        ]
+      }
+    },
+    {
+      "name": "Chair",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chair",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/ChairBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/item/chair.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/chair.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/chair.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/chair.json"
+        ]
+      }
+    },
+    {
+      "name": "ExitSign",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exit_sign",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/blockstates/exit_sign.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/ExitSignBlock.java",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/exit_sign.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/exit_sign.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/exit_sign.json"
+        ]
+      }
+    },
+    {
+      "name": "LightBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/block/light_block.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/light_block.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/LightBlockBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/item/light_block.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/light_block.json"
+        ]
+      }
+    },
+    {
+      "name": "Board",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "board",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/board.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/BoardBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/item/board.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/board.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/board.json"
+        ]
+      }
+    },
+    {
+      "name": "GreenLocker",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_locker",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/blockstates/green_locker.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/green_locker.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/GreenLockerBlock.java",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/green_locker.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/green_locker.json"
+        ]
+      }
+    },
+    {
+      "name": "GreenLockerGUI",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_locker_gui",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/client/gui/GreenLockerGUIScreen.java",
+          "src/main/java/net/mcreator/untitledbaldimod/world/inventory/GreenLockerGUIMenu.java"
+        ]
+      }
+    },
+    {
+      "name": "NumbersAreEasyPoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "numbers_are_easy_poster",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/NumbersAreEasyPosterBlock.java",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/numbers_are_easy_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/numbers_are_easy_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/numbers_are_easy_poster.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/numbers_are_easy_poster.json"
+        ]
+      }
+    },
+    {
+      "name": "BSODAVendingMachine",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bsoda_vending_machine",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/blockstates/bsoda_vending_machine.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/bsoda_vending_machine.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/bsoda_vending_machine.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/bsoda_vending_machine.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/BSODAVendingMachineBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "BSODA",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bsoda",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/item/bsoda.json",
+          "src/main/java/net/mcreator/untitledbaldimod/item/BSODAItem.java"
+        ]
+      }
+    },
+    {
+      "name": "ZestyBarVendingMachine",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zesty_bar_vending_machine",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/ZestyBarVendingMachineBlock.java",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/zesty_bar_vending_machine.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/zesty_bar_vending_machine.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/zesty_bar_vending_machine.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/zesty_bar_vending_machine.json"
+        ]
+      }
+    },
+    {
+      "name": "Plant",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plant",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/plant.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/plant.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/plant.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/plant.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/PlantBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Window1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "window_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/blockstates/window_1.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/window_1.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/Window1Block.java",
+          "src/main/resources/assets/basics_in_geometry/models/item/window_1.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/window_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Window2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "window_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/item/window_2.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/Window2Block.java",
+          "src/main/resources/assets/basics_in_geometry/models/block/window_2.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/window_2.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/window_2.json"
+        ]
+      }
+    },
+    {
+      "name": "SpeedBoost",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "speed_boost",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/procedures/SpeedBoostProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CafeteriaTable",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cafeteria_table",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/item/cafeteria_table.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/cafeteria_table.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/cafeteria_table.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/CafeteriaTableBlock.java",
+          "src/main/resources/assets/basics_in_geometry/blockstates/cafeteria_table.json"
+        ]
+      }
+    },
+    {
+      "name": "OutOfOrderPoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "out_of_order_poster",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/OutOfOrderPosterBlock.java",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/out_of_order_poster.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/out_of_order_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/out_of_order_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/out_of_order_poster.json"
+        ]
+      }
+    },
+    {
+      "name": "NotebooksPoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "notebooks_poster",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/notebooks_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/notebooks_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/notebooks_poster.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/notebooks_poster.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/NotebooksPosterBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "ReadPosters",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "read_posters",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/ReadPostersBlock.java",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/read_posters.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/read_posters.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/read_posters.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/read_posters.json"
+        ]
+      }
+    },
+    {
+      "name": "ZestyBar",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zesty_bar",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/item/zesty_bar.json",
+          "src/main/java/net/mcreator/untitledbaldimod/item/ZestyBarItem.java"
+        ]
+      }
+    },
+    {
+      "name": "DetentionPoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "detention_poster",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/detention_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/detention_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/detention_poster.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/detention_poster.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/DetentionPosterBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "DetentionPosterStates",
+      "type": "blockstates",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "detention_poster_states",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/block/detention_poster_states_blockstate_0.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/detention_poster_states_blockstate_5.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/detention_poster_states_blockstate_2.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/detention_poster_states_blockstate_1.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/detention_poster_states_blockstate_4.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/detention_poster_states_blockstate_3.json"
+        ]
+      }
+    },
+    {
+      "name": "DetentionPosterOnBlockRightClicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "detention_poster_on_block_right_clicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/procedures/DetentionPosterOnBlockRightClickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "blockstate",
+            "type": "blockstate"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Quarter",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quarter",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/item/QuarterItem.java",
+          "src/main/resources/assets/basics_in_geometry/models/item/quarter.json"
+        ]
+      }
+    },
+    {
+      "name": "Rewarded4ThinkingPoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rewarded_4_thinking_poster",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/block/rewarded_4_thinking_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/rewarded_4_thinking_poster.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/rewarded_4_thinking_poster.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/Rewarded4ThinkingPosterBlock.java",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/rewarded_4_thinking_poster.json"
+        ]
+      }
+    },
+    {
+      "name": "CandyPoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_poster",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/untitledbaldimod/block/CandyPosterBlock.java",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/candy_poster.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/candy_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/candy_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/candy_poster.json"
+        ]
+      }
+    },
+    {
+      "name": "BeAKidPoster",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "be_a_kid_poster",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/block/be_a_kid_poster.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/be_a_kid_poster.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/BeAKidPosterBlock.java",
+          "src/main/resources/assets/basics_in_geometry/blockstates/be_a_kid_poster.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/be_a_kid_poster.json"
+        ]
+      }
+    },
+    {
+      "name": "YouCanThinkPad",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "you_can_think_pad",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/item/you_can_think_pad.json",
+          "src/main/java/net/mcreator/untitledbaldimod/item/YouCanThinkPadItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SchoolhouseFence",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schoolhouse_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/basics_in_geometry/models/block/schoolhouse_fence_noside.json",
+          "src/main/java/net/mcreator/untitledbaldimod/block/SchoolhouseFenceBlock.java",
+          "src/main/resources/assets/basics_in_geometry/models/block/schoolhouse_fence_side_alt.json",
+          "src/main/resources/assets/basics_in_geometry/blockstates/schoolhouse_fence.json",
+          "src/main/resources/assets/basics_in_geometry/models/item/schoolhouse_fence.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/schoolhouse_fence_post.json",
+          "src/main/resources/data/basics_in_geometry/loot_tables/blocks/schoolhouse_fence.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/schoolhouse_fence_noside_alt.json",
+          "src/main/resources/assets/basics_in_geometry/models/block/schoolhouse_fence_side.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.basics_in_geometry.green_locker": "Green Locker",
+      "block.basics_in_geometry.rewarded_4_thinking_poster": "Rewarded For Thinking Poster",
+      "block.untitled_baldi_mod.schoolhouse_wall_top": "Schoolhouse Brick Wall [Top]",
+      "block.basics_in_geometry.school_rules_poster": "School Rules Poster",
+      "block.basics_in_geometry.schoolhouse_tiles": "Schoolhouse Tiles 1",
+      "block.untitled_baldi_mod.office_door": "Baldi\u0027s Office Door",
+      "block.untitled_baldi_mod.blue_locker": "Blue Locker",
+      "block.basics_in_geometry.window_1": "Window 1",
+      "block.untitled_baldi_mod.school_house_wall_2": "Schoolhouse Wood Wall",
+      "block.basics_in_geometry.schoolhouse_fence": "Schoolhouse Fence",
+      "block.basics_in_geometry.out_of_order_poster": "Out Of Order Poster",
+      "block.untitled_baldi_mod.swinging_door": "Swinging Door",
+      "block.basics_in_geometry.window_2": "Window 1",
+      "block.basics_in_geometry.scissors_poster": "Scissors Poster",
+      "block.basics_in_geometry.school_house_wall_2": "Schoolhouse Wood Wall",
+      "block.untitled_baldi_mod.chair": "Chair",
+      "item.basics_in_geometry.you_can_think_pad": "You Can Think Pad",
+      "block.untitled_baldi_mod.school_rules_poster": "School Rules Poster",
+      "block.untitled_baldi_mod.wd_no_squee_poster": "Scissors Poster",
+      "block.untitled_baldi_mod.light_block": "Schoolhouse Lights",
+      "block.basics_in_geometry.schoolhouse_ceiling_2": "Schoolhouse Ceiling 2",
+      "block.untitled_baldi_mod.schoolhouse_tiles": "Schoolhouse Tiles 1",
+      "block.basics_in_geometry.desk": "Desk",
+      "block.basics_in_geometry.plant": "Plant",
+      "block.basics_in_geometry.zesty_bar_vending_machine": "Zesty Bar Vending Machine",
+      "block.untitled_baldi_mod.schoolhouse_carpet": "Schoolhouse Carpet",
+      "block.untitled_baldi_mod.small_desk": "Small Desk",
+      "block.untitled_baldi_mod.exit_sign": "Exit Sign",
+      "block.basics_in_geometry.blue_locker": "Blue Locker",
+      "block.basics_in_geometry.light_block": "Schoolhouse Lights",
+      "block.basics_in_geometry.be_a_kid_poster": "Be A Kid Poster",
+      "block.untitled_baldi_mod.schoolhouse_ceiling_2": "Schoolhouse Ceiling 2",
+      "item.basics_in_geometry.zesty_bar": "Energy Flavored Zesty Bar",
+      "block.untitled_baldi_mod.schoolhouse_ceiling": "Schoolhouse Ceiling 1",
+      "block.untitled_baldi_mod.red_locker": "Red Locker",
+      "block.untitled_baldi_mod.recycling_poster": "Recycling Poster",
+      "block.basics_in_geometry.janitor_boots_poster": "Janitor Boots Poster",
+      "block.basics_in_geometry.numbers_are_easy_poster": "Numbers Poster",
+      "item.basics_in_geometry.bsoda": "BSODA",
+      "item.basics_in_geometry.quarter": "Quarter",
+      "block.basics_in_geometry.chair": "Chair",
+      "block.basics_in_geometry.recycling_poster": "Recycling Poster",
+      "item_group.basics_in_geometry.basics_in_geometry": "Basics In Geometry",
+      "block.untitled_baldi_mod.school_house_wall_bottom": "Schoolhouse Brick Wall [Top]",
+      "block.basics_in_geometry.schoolhouse_ceiling": "Schoolhouse Ceiling 1",
+      "block.untitled_baldi_mod.supply_closet_door": "Supply Closet Door",
+      "block.basics_in_geometry.board": "Board",
+      "block.untitled_baldi_mod.board": "Board",
+      "block.basics_in_geometry.classroom_door": "Classroom Door",
+      "block.untitled_baldi_mod.principal_door": "Principal\u0027s Office Door",
+      "block.basics_in_geometry.principal_door": "Principal\u0027s Office Door",
+      "block.basics_in_geometry.notebooks_poster": "Notebooks Poster",
+      "block.basics_in_geometry.small_desk": "Small Desk",
+      "block.untitled_baldi_mod.schoolhouse_wall_1": "Schoolhouse Brick Wall [Middle]",
+      "block.basics_in_geometry.attention_poster": "Attention Poster",
+      "block.basics_in_geometry.wd_no_squee_poster": "Scissors Poster",
+      "item_group.untitled_baldi_mod.untitled_baldi_mod": "Basics In Geometry",
+      "block.basics_in_geometry.schoolhouse_floor": "Schoolhouse Floor ",
+      "block.basics_in_geometry.candy_poster": "Candy Poster",
+      "block.untitled_baldi_mod.janitor_boots_poster": "Janitor Boots Poster",
+      "block.basics_in_geometry.cafeteria_table": "Cafeteria Table",
+      "block.untitled_baldi_mod.desk": "Desk",
+      "block.basics_in_geometry.school_house_tiles_2": "Schoolhouse Tiles 2",
+      "block.basics_in_geometry.schoolhouse_carpet": "Schoolhouse Carpet",
+      "block.basics_in_geometry.schoolhouse_wall_top": "Schoolhouse Brick Wall [Top]",
+      "block.basics_in_geometry.school_house_wall_bottom": "Schoolhouse Brick Wall [Top]",
+      "block.untitled_baldi_mod.schoolhouse_floor": "Schoolhouse Floor ",
+      "block.untitled_baldi_mod.classroom_door": "Classroom Door",
+      "block.untitled_baldi_mod.scissors_poster": "Scissors Poster",
+      "block.untitled_baldi_mod.school_faculty_door": "School Faculty Only Door",
+      "itemGroup.tabbasics_in_geometry": "Basics In Geometry",
+      "block.basics_in_geometry.schoolhouse_wall_1": "Schoolhouse Brick Wall [Middle]",
+      "block.basics_in_geometry.red_locker": "Red Locker",
+      "block.untitled_baldi_mod.cellphone_poster": "Cellphone Poster",
+      "block.basics_in_geometry.office_door": "Baldi\u0027s Office Door",
+      "block.basics_in_geometry.cellphone_poster": "Cellphone Poster",
+      "gui.basics_in_geometry.green_locker_gui.label_green_locker": "Green Locker",
+      "block.basics_in_geometry.school_faculty_door": "School Faculty Only Door",
+      "block.basics_in_geometry.detention_poster": "Detention Poster",
+      "block.basics_in_geometry.supply_closet_door": "Supply Closet Door",
+      "block.basics_in_geometry.read_posters": "Reading Poster",
+      "block.basics_in_geometry.exit_sign": "Exit Sign",
+      "block.basics_in_geometry.swinging_door": "Swinging Door",
+      "block.basics_in_geometry.bsoda_vending_machine": "BSODA Vending Machine",
+      "block.untitled_baldi_mod.school_house_tiles_2": "Schoolhouse Tiles 2"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "basics_in_geometry",
+    "modName": "Basics In Geometry",
+    "version": "1.0.2",
+    "description": "Brace yourself for educational fun!",
+    "author": "CreeperKing78",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/basics-in-geometry",
+    "license": "Public Domain",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib"
+    ],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Coding by gabi_9b!",
+    "modElementsPackage": "net.mcreator.untitledbaldimod"
+  },
+  "mcreatorVersion": 202400229712
+}

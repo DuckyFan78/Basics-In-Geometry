@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "untitled_baldi_mod:blocks/carpet",
+    "up": "untitled_baldi_mod:blocks/carpet",
+    "north": "untitled_baldi_mod:blocks/carpet",
+    "east": "untitled_baldi_mod:blocks/carpet",
+    "south": "untitled_baldi_mod:blocks/carpet",
+    "west": "untitled_baldi_mod:blocks/carpet",
+    "particle": "untitled_baldi_mod:blocks/carpet"
+  },
+  "render_type": "solid"
+}

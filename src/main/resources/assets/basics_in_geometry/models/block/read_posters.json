@@ -1,0 +1,9 @@
+{
+  "parent": "basics_in_geometry:custom/poster11",
+  "textures": {
+    "all": "basics_in_geometry:block/poster11",
+    "particle": "basics_in_geometry:block/poster11",
+    "0": "basics_in_geometry:block/poster11"
+  },
+  "render_type": "solid"
+}

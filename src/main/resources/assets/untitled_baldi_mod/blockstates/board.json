@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "untitled_baldi_mod:block/board"
+    },
+    "facing=east": {
+      "model": "untitled_baldi_mod:block/board",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "untitled_baldi_mod:block/board",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "untitled_baldi_mod:block/board",
+      "y": 270
+    }
+  }
+}

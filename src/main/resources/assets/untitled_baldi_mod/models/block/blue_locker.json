@@ -1,0 +1,9 @@
+{
+  "parent": "untitled_baldi_mod:custom/locker2",
+  "textures": {
+    "all": "untitled_baldi_mod:blocks/locker2",
+    "particle": "untitled_baldi_mod:blocks/locker2",
+    "0": "untitled_baldi_mod:blocks/locker2"
+  },
+  "render_type": "solid"
+}

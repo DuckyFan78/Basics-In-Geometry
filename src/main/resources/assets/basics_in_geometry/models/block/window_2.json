@@ -1,0 +1,9 @@
+{
+  "parent": "basics_in_geometry:custom/window2",
+  "textures": {
+    "all": "basics_in_geometry:block/window2",
+    "particle": "basics_in_geometry:block/window2",
+    "0": "basics_in_geometry:block/window2"
+  },
+  "render_type": "cutout"
+}

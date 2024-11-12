@@ -1,0 +1,9 @@
+{
+  "parent": "untitled_baldi_mod:custom/poster6",
+  "textures": {
+    "all": "untitled_baldi_mod:blocks/poster6",
+    "particle": "untitled_baldi_mod:blocks/poster6",
+    "0": "untitled_baldi_mod:blocks/poster6"
+  },
+  "render_type": "solid"
+}

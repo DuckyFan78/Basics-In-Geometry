@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "basics_in_geometry:item/staffdoor"
+  },
+  "render_type": "translucent"
+}
