@@ -49,6 +49,7 @@ public class BasicsInGeometryModTabs {
 				tabData.accept(BasicsInGeometryModBlocks.EXIT_SIGN.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.LIGHT_BLOCK.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.BOARD.get().asItem());
+				tabData.accept(BasicsInGeometryModBlocks.GREEN_LOCKER.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.NUMBERS_ARE_EASY_POSTER.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.BSODA_VENDING_MACHINE.get().asItem());
 				tabData.accept(BasicsInGeometryModItems.BSODA.get());
@@ -61,7 +62,6 @@ public class BasicsInGeometryModTabs {
 				tabData.accept(BasicsInGeometryModBlocks.NOTEBOOKS_POSTER.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.READ_POSTERS.get().asItem());
 				tabData.accept(BasicsInGeometryModItems.ZESTY_BAR.get());
-				tabData.accept(BasicsInGeometryModBlocks.DETENTION_POSTER.get().asItem());
 				tabData.accept(BasicsInGeometryModItems.QUARTER.get());
 				tabData.accept(BasicsInGeometryModBlocks.REWARDED_4_THINKING_POSTER.get().asItem());
 				tabData.accept(BasicsInGeometryModBlocks.CANDY_POSTER.get().asItem());

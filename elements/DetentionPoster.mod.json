@@ -141,7 +141,7 @@
         "subtract": false
       }
     ],
-    "name": "Detention Poster",
+    "name": "Detention Poster [NOT FINISHED]",
     "specialInformation": {
       "fixedValue": []
     },
@@ -149,11 +149,7 @@
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
-    "creativeTabs": [
-      {
-        "value": "CUSTOM:UntitledBaldiMod"
-      }
-    ],
+    "creativeTabs": [],
     "destroyTool": "Not specified",
     "customDrop": {
       "value": ""

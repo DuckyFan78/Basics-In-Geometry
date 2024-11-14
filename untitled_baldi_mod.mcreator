@@ -949,8 +949,8 @@
   "tab_element_order": {},
   "language_map": {
     "en_us": {
-      "block.basics_in_geometry.green_locker": "Green Locker",
       "block.basics_in_geometry.rewarded_4_thinking_poster": "Rewarded For Thinking Poster",
+      "block.basics_in_geometry.green_locker": "Green Locker",
       "block.untitled_baldi_mod.schoolhouse_wall_top": "Schoolhouse Brick Wall [Top]",
       "block.basics_in_geometry.school_rules_poster": "School Rules Poster",
       "block.basics_in_geometry.schoolhouse_tiles": "Schoolhouse Tiles 1",
@@ -1027,7 +1027,7 @@
       "block.basics_in_geometry.cellphone_poster": "Cellphone Poster",
       "gui.basics_in_geometry.green_locker_gui.label_green_locker": "Green Locker",
       "block.basics_in_geometry.school_faculty_door": "School Faculty Only Door",
-      "block.basics_in_geometry.detention_poster": "Detention Poster",
+      "block.basics_in_geometry.detention_poster": "Detention Poster [NOT FINISHED]",
       "block.basics_in_geometry.supply_closet_door": "Supply Closet Door",
       "block.basics_in_geometry.read_posters": "Reading Poster",
       "block.basics_in_geometry.exit_sign": "Exit Sign",
